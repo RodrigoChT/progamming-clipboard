@@ -12,6 +12,7 @@ Create a [clipboard](https://github.com/RodrigoChT/progamming-clipboard/blob/mas
 The file ``clipboard.talon`` contains commands to copy and paste any of the values in the clipboard using voice commands. For now you need to have the clipboard as the "next window" (one alt+tab away). To copy and paste variables say ``"bar <number|letter>"`` and for functions and packages say ``"funk <number|letter>"``
 
 ## Pending features
+- Create the clipboard with a voice command using the file in focus as the source.
 - Make talon focus the clipboard with it having to be the "next window".
 - Check more edge cases for the regex rules.
 - Add functionality for R files.
